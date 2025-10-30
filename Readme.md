@@ -24,3 +24,5 @@ BlockTrace aims to serve as a model for simple, self-contained, and fully on-cha
 - Optionally add on-chain analytics or proof-of-participation NFTs.
 
 Contract Address : 0x40a734689597783Ac227e9DA99121b49292FFAAc
+<img width="1410" height="680" alt="Screenshot 2025-10-30 110710" src="https://github.com/user-attachments/assets/06477390-36ee-4d40-8c84-94db783e02ef" />
+
