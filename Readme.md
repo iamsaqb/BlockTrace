@@ -23,6 +23,7 @@ BlockTrace aims to serve as a model for simple, self-contained, and fully on-cha
 - Support cross-project/event registration from a single contract instance.
 - Optionally add on-chain analytics or proof-of-participation NFTs.
 
-Contract Address : 0x40a734689597783Ac227e9DA99121b49292FFAAc
-<img width="1410" height="680" alt="Screenshot 2025-10-30 110710" src="https://github.com/user-attachments/assets/06477390-36ee-4d40-8c84-94db783e02ef" />
+Contract Address : 0xd9145CCE52D386f254917e481eB44e9943F39138
+<img width="1721" height="724" alt="image" src="https://github.com/user-attachments/assets/ffc9e70d-9c97-4722-a73b-230c2133fdde" />
+
 
