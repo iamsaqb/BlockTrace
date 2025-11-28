@@ -31,12 +31,12 @@ contract BlockTrace {
 
     // Transfer ownership to contract deployer (no input)
     function resetOwner() public {
-        require(msg.sender == owner, "Not contract owner.");
+        require(msg.sender == owner, " Not contract owner.");
         emit OwnershipTransferred(owner, address(this));
         owner = address(this);
     }
 
-    // Get the age of the contract in blocks (no input)
+    // Get the age of the contract in blocks (no input) 
     function contractAge() public view returns (uint256) {
         return block.number - launchBlock;
     }
